@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-My name is Cieran and I'm a computer science student from Cape Town. Here's some info about me!
+My name is Cieran and I'm a computer science student from Cape Town. Here's some info about me! I am always willing to learn and adapt
 
-seedling Interests:
+:seedling: Interests:
 
-    - Backend development.
-    - Data engineering.
+- Backend development
+- Content Creation (Youtube)
+- Data engineering
+- Machine Learning and AI
 
 :speech_balloon: Reach me by email! fullstackholmes@gmail.com 
 
