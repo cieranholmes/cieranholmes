@@ -25,7 +25,7 @@ Current student learning software engineering in my free time. Always looking fo
 
 > *The best time to plant a tree was 20 years ago the second best time is now*-
 
-> *90% of people are good, 80% of the time.
+> *90% of people are good, 80% of the time.*
 
 <h2 align="center">Follow me/Contact Me</h2>
 <p align="center">
