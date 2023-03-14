@@ -21,7 +21,7 @@ Current student learning software engineering in my free time. Always looking fo
 - Keen interest in modding videogames (mostly Minecraft)
 - Loves the ocean but gets viciously sea-sick everytime I go on a boat
 
-> *Things are just as hard as you make them. Things are just as easy as you make them.*
+> *Oh well. Whatever happens, happens.*
 
 > *The best time to plant a tree was 20 years ago the second best time is now*-
 
