@@ -3,7 +3,7 @@ from github.cieranholmes.cieranholmes import README as Hello_World
 # Hello_World()
 ![](https://www.geeksultd.com/wp-content/uploads/2020/08/118014278_2904057629706075_8654455818989398520_o-1.jpg)
 ## Glad to see you here!
-Current student learning software engineering in my free time. Always looking for advice and mentorship. Looking to learn full stack.
+Current student studying a BSc Computer Science and Applied Statistics at UCT while developing skills on the side. Always looking for advice and mentorship. Looking to learn full stack.
 
 <img align="right" width="50%" src="https://cdn.discordapp.com/attachments/987353708360761407/1080084727526084638/IMG_20200708_175429_Original.jpg">
 
@@ -22,10 +22,6 @@ Current student learning software engineering in my free time. Always looking fo
 - Loves the ocean but gets viciously sea-sick everytime I go on a boat
 
 > *Oh well. Whatever happens, happens.*
-
-> *The best time to plant a tree was 20 years ago the second best time is now*-
-
-> *90% of people are good, 80% of the time.*
 
 <h2 align="center">Follow me/Contact Me</h2>
 <p align="center">
