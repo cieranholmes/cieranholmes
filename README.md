@@ -5,20 +5,19 @@ from github.cieranholmes.cieranholmes import README as Hello_World
 ## Glad to see you here!
 Current student studying a BSc Computer Science and Applied Statistics at UCT while developing skills on the side. Always looking for advice and mentorship. Looking to learn full stack.
 
-<img align="right" width="50%" src="https://cdn.discordapp.com/attachments/987353708360761407/1080084727526084638/IMG_20200708_175429_Original.jpg">
+<img align="right" width="50%" src="https://imgur.com/a/YBTglUp">
 
 ## Languages/Frameworks
 - Python, Java, C, C++, Javascript
-- HTML, CSS, ReactJS, PostgreSQL, MongoDB, Flask, SQLAlchemy, Node.js
+- HTML, CSS, ReactJS
 
 ## More about me...
 - Born in Cape Town, SA
-- 21 year old still based in CT
-- Enthusiastic Student
+- 22 year old based in CT
 
 ## Extras
 - Avid hiker and gym-goer
-- Keen interest in modding videogames (mostly Minecraft)
+- Keen interest in modding videogames (Minecraft Java Edition etc.)
 - Loves the ocean but gets viciously sea-sick everytime I go on a boat
 
 > *Oh well. Whatever happens, happens.*
