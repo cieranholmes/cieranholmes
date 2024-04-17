@@ -5,11 +5,11 @@ from github.cieranholmes.cieranholmes import README as Hello_World
 ## Glad to see you here!
 Current student studying a BSc Computer Science and Applied Statistics at UCT while developing skills on the side. Always looking for advice and mentorship. Looking to learn full stack.
 
-<img align="right" width="50%" src="https://imgur.com/a/YBTglUp">
+<img align="right" width="50%" src="https://i.imgur.com/UZUX89h.jpeg" />
 
 ## Languages/Frameworks
 - Python, Java, C, C++, Javascript
-- HTML, CSS, ReactJS
+- ReactJS, NextJS, Django, HTLML & CSS
 
 ## More about me...
 - Born in Cape Town, SA
@@ -27,4 +27,8 @@ Current student studying a BSc Computer Science and Applied Statistics at UCT wh
 	<a href="https://github.com/cieranholmes">
 		<img align="center" alt="Cieran's GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 	</a>
+	<a href="mailto: holmescieran@gmail.com">
+		<img align="center" alt="Cieran's Email" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+	</a>
+	<em>+27 71 362 8614</em>
 </p>
