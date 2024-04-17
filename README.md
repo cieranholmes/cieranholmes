@@ -26,10 +26,15 @@ Current student studying a BSc Computer Science and Applied Statistics at UCT wh
 <h2 align="center">Follow me/Contact Me</h2>
 <p align="center">
 	<a href="https://github.com/cieranholmes">
-		<img align="center" alt="Cieran's GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+		<img align="center" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 	</a>
 	<a href="mailto: holmescieran@gmail.com">
-		<img align="center" alt="Cieran's Email" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+		<img align="center" alt="Email" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 	</a>
-	<em>+27 71 362 8614</em>
+	<a href="www.linkedin.com/in/cieran-holmes-0976121b9">
+		<img align="center" alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
+	</a>
+</p>
+<p align="center">
+	Message me at <em>+27 71 362 8614</em>
 </p>
