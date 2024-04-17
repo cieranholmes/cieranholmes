@@ -3,12 +3,10 @@ from github.cieranholmes.cieranholmes import README as Hello_World
 # Hello_World()
 ![](https://www.geeksultd.com/wp-content/uploads/2020/08/118014278_2904057629706075_8654455818989398520_o-1.jpg)
 
-<div style="float: right; width: 50%;">
-	<img align="right" width="50%" src="https://i.imgur.com/UZUX89h.jpeg" />
-</div>
-
 ## Glad to see you here!
 Current student studying a BSc Computer Science and Applied Statistics at UCT while developing skills on the side. Always looking for advice and mentorship. Looking to learn full stack.
+
+<img src="https://i.imgur.com/UZUX89h.jpeg" alt="Sunset over mountains" width="30%" align="right"/>
 
 ## Languages/Frameworks
 - Python, Java, C, C++, Javascript
