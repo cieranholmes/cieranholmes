@@ -3,7 +3,7 @@ from github.cieranholmes.cieranholmes import README as Hello_World
 # Hello_World()
 ![](https://www.geeksultd.com/wp-content/uploads/2020/08/118014278_2904057629706075_8654455818989398520_o-1.jpg)
 
-<div float: right; width: 50%>
+<div style="float: right; width: 50%">
 	<img align="right" width="50%" src="https://i.imgur.com/UZUX89h.jpeg" />
 </div>
 
