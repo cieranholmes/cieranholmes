@@ -6,7 +6,7 @@ from github.cieranholmes.cieranholmes import README as Hello_World
 ## Glad to see you here!
 Current student studying a BSc Computer Science and Applied Statistics at UCT while developing skills on the side. Always looking for advice and mentorship. Looking to learn full stack.
 
-<img src="https://i.imgur.com/UZUX89h.jpeg" alt="Sunset over mountains" width="30%" align="right"/>
+<img src="https://i.imgur.com/UZUX89h.jpeg" alt="Sunset over mountains" width="33%" align="right"/>
 
 ## Languages/Frameworks
 - Python, Java, C, C++, Javascript
