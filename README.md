@@ -35,6 +35,3 @@ Current student studying a BSc Computer Science and Applied Statistics at UCT wh
 		<img align="center" alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
 	</a>
 </p>
-<p align="center">
-	Message me at <em>+27 71 362 8614</em>
-</p>
