@@ -8,9 +8,10 @@ Current student studying a BSc Computer Science and Applied Statistics at UCT wh
 
 <img src="https://i.imgur.com/UZUX89h.jpeg" alt="Sunset over mountains" width="33%" align="right"/>
 
-## Languages/Frameworks
+## Knowledge
 - Python, Java, C, C++, Javascript
 - ReactJS, NextJS, Django, HTLML & CSS
+- Experienced linux user running hyprland+arch(btw) as my daily driver
 
 ## More about me...
 - Born in Cape Town, SA
