@@ -23,6 +23,7 @@ Current student studying a BSc Computer Science and Applied Statistics at UCT wh
 - Loves the ocean but gets viciously sea-sick everytime I go on a boat
 
 > *Oh well. Whatever happens, happens.*
+> *It's a terrible day for rain.*
 
 <h2 align="center">Follow me/Contact Me</h2>
 <p align="center">
