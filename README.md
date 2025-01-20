@@ -14,10 +14,6 @@ Current student studying a BSc Computer Science and Applied Statistics at UCT wh
 - Experienced linux user running hyprland+arch(btw) as my daily driver
 
 ## More about me...
-- Born in Cape Town, SA
-- 22 year old based in CT
-
-## Extras
 - Avid hiker and gym-goer
 - Keen interest in modding videogames (Minecraft Java Edition etc.)
 - Loves the ocean but gets viciously sea-sick everytime I go on a boat
