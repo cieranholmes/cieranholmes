@@ -1,7 +1,7 @@
 from github.cieranholmes.cieranholmes import README as Hello_World
 
 # Hello_World()
-<img src="https://i.imgur.com/JuysNeF.jpeg"/>
+<img src="https://i.imgur.com/jyqYumv.jpeg"/>
 
 ## Glad to see you here!
 Currently studying a BSc Computer Science and Applied Statistics at UCT in my final year while developing skills on the side. Always looking for advice and mentorship. Looking to learn full stack.
