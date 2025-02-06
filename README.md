@@ -4,7 +4,7 @@ from github.cieranholmes.cieranholmes import README as Hello_World
 <img src="https://i.imgur.com/JuysNeF.jpeg"/>
 
 ## Glad to see you here!
-Current student studying a BSc Computer Science and Applied Statistics at UCT while developing skills on the side. Always looking for advice and mentorship. Looking to learn full stack.
+Currently studying a BSc Computer Science and Applied Statistics at UCT in my final year while developing skills on the side. Always looking for advice and mentorship. Looking to learn full stack.
 
 <img src="https://i.imgur.com/UZUX89h.jpeg" alt="Sunset over mountains" width="33%" align="right"/>
 
@@ -14,7 +14,7 @@ Current student studying a BSc Computer Science and Applied Statistics at UCT wh
 - Experienced linux user running hyprland+arch(btw) as my daily driver
 
 ## More about me...
-- Avid hiker and gym-goer
+- Avid hiker, reader and gym-goer
 - Keen interest in modding videogames (Minecraft Java Edition etc.)
 - Loves the ocean but gets viciously sea-sick everytime I go on a boat
 
