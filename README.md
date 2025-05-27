@@ -8,7 +8,7 @@ Currently studying a BSc Computer Science and Applied Statistics at UCT in my fi
 
 ## Knowledge
 - Python, Java, C, C++, Javascript
-- ReactJS, NextJS, Django, HTLML & CSS
+- ReactJS, NextJS, Django
 - Experienced linux user running hyprland+arch(btw) as my daily driver
 
 ## More about me...
