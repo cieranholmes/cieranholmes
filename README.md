@@ -8,7 +8,7 @@ Currently studying a BSc Computer Science and Applied Statistics at UCT in my fi
 
 ## Knowledge
 - Python, Java, C, C++, Javascript
-- ReactJS, NextJS, Django
+- ReactJS, NextJS, Flutter, Vue.js and Flask
 - Experienced linux user running hyprland+arch(btw) as my daily driver
 
 ## More about me...
@@ -22,13 +22,14 @@ Currently studying a BSc Computer Science and Applied Statistics at UCT in my fi
 
 <h2 align="center">Follow me/Contact Me</h2>
 <p align="center">
-	<a href="https://github.com/cieranholmes">
-		<img align="center" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+	<a href="https://github.com/cieranholmes" style="margin: 0 10px;">
+		<img align="center" alt="GitHub" width="30px" src="https://img.icons8.com/?size=100&id=12599&format=png&color=FFFFFF" />
 	</a>
-	<a href="mailto: holmescieran@gmail.com">
+	<a href="mailto:holmescieran@gmail.com" style="margin: 0 10px;">
 		<img align="center" alt="Email" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 	</a>
-	<a href="www.linkedin.com/in/cieran-holmes-0976121b9">
+	<a href="https://www.linkedin.com/in/cieran-holmes-0976121b9" style="margin: 0 10px;">
 		<img align="center" alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
 	</a>
 </p>
+
