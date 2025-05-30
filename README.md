@@ -4,7 +4,7 @@ from github.cieranholmes.cieranholmes import README as Hello_World
 <img src="https://i.imgur.com/jyqYumv.jpeg"/>
 
 ## Glad to see you here!
-Currently studying a BSc Computer Science and Applied Statistics at UCT in my final year while developing skills on the side. Always looking for advice and mentorship. Looking to learn full stack.
+Currently studying a BSc Computer Science and Applied Statistics at UCT in my final year while working part-time as a Software Engineering Intern at the Franc group in Cape Town, South Africa. Always looking for advice and mentorship. Looking to learn full stack.
 
 ## Knowledge
 - Python, Java, C, C++, Javascript
