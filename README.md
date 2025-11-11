@@ -13,7 +13,7 @@ Currently studying a BSc Computer Science and Applied Statistics at UCT in my fi
 
 ## More about me...
 - Avid hiker, reader and gym-goer
-- Keen interest in modding videogames (Minecraft Java Edition etc.)
+- Keen interest in modding videogames (Minecraft Java Edition specifically)
 - Loves the ocean but gets viciously sea-sick everytime I go on a boat
 
 > *Oh well. Whatever happens, happens.*
