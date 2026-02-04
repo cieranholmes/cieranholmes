@@ -4,10 +4,10 @@ from github.cieranholmes.cieranholmes import README as Hello_World
 <img src="https://i.imgur.com/jyqYumv.jpeg"/>
 
 ## Glad to see you here!
-Currently studying a BSc Computer Science and Applied Statistics at UCT in my final year while working part-time as a Software Engineering Intern at the Franc group in Cape Town, South Africa. Always looking for advice and mentorship. Looking to learn full stack.
+Junior Software Engineer working at Electrum Payment Solutions specializing in Java fintech solutions and cloud-native technologies. Passionate about delivering scalable solutions using cutting-edge technologies.
 
 ## Knowledge
-- Python, Java, C, C++, Javascript
+- Python, Java, C, C++, TypeScript
 - ReactJS, NextJS, Flutter, Vue.js and Flask
 - Experienced linux user running hyprland+arch(btw) as my daily driver
 
