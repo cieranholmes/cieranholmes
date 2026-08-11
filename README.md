@@ -7,8 +7,8 @@ from github.cieranholmes.cieranholmes import README as Hello_World
 Junior Software Engineer working at Electrum Payment Solutions specializing in Java fintech solutions and cloud-native technologies. Passionate about delivering scalable solutions using cutting-edge technologies.
 
 ## Knowledge
-- Python, Java, C, C++, TypeScript
-- ReactJS, NextJS, Flutter, Vue.js and Flask
+- Java, C#, TypeScript, HTML/CSS
+- AWS, Kafka, Kubernetes, ArgoCD, Elastic
 - Experienced linux user running hyprland+arch(btw) as my daily driver
 
 ## More about me...
